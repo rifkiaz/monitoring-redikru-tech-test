@@ -113,8 +113,7 @@ def metrics():
 
 ![alert monitoring](alert.png)
 
-<iframe width="560" height="315" src="https://youtu.be/1PwUA86v0kI?si=F8Lp7LpsVsgtbr3z" frameborder="0" allowfullscreen></iframe>
-
+[![Video di YouTube](https://img.youtube.com/vi/1PwUA86v0kI/0.jpg)](https://youtu.be/1PwUA86v0kI?si=F8Lp7LpsVsgtbr3z)
 
 ## Troubleshooting
 
