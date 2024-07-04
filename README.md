@@ -111,6 +111,11 @@ def metrics():
 - Modify Prometheus alerting rules (`alert.rules.yml`) for setting up alerts based on metrics thresholds.
 - Explore additional Grafana features like templating, annotations, and more advanced visualizations.
 
+![alert monitoring](alert.png)
+
+<iframe width="560" height="315" src="https://youtu.be/1PwUA86v0kI?si=F8Lp7LpsVsgtbr3z" frameborder="0" allowfullscreen></iframe>
+
+
 ## Troubleshooting
 
 - If metrics are not appearing in Prometheus, check the Flask app logs and Prometheus configuration for errors.
