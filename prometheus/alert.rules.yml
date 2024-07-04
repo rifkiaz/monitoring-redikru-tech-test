@@ -1,0 +1,11 @@
+groups:
+  - name: flask_app_alerts
+    rules:
+      - alert: HighRequestRate
+        expr: request_count_total > 10
+        for: 1m
+        labels:
+          severity: page
+        annotations:
+          summary: High request rate on Flask app
+          description: "Request rate is > 10 requests per second for the last minute."
